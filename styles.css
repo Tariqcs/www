@@ -1,0 +1,32 @@
+header{
+background-color: black;
+
+display: block;
+text-align: center;
+
+}
+
+
+main{
+background-color: black;
+padding: 1%;
+text-align: center;
+
+}
+
+.portada{
+text-align: center;
+ width: 20%;
+}   
+
+.ere{
+color: white;
+background-color: red;
+padding: 1%;
+border: 4px;border-color: yellow;
+text-decoration: none;
+}
+
+h1{
+
+}
